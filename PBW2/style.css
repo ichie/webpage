@@ -1,0 +1,20 @@
+html{
+	background-image: url(m42.jpg);
+	background-position: center;	
+}
+
+img src{
+	border: 5px;
+	border-color: white;
+}
+
+body{
+	color:white;
+}
+
+input{
+	size: 30;
+}
+
+h1{
+	color: white;

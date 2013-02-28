@@ -1,0 +1,21 @@
+html{
+	background-image: url(m42.jpg);
+	background-position: center;	
+}
+
+img src{
+	border: 5px;
+	border-color: white;
+}
+
+h1{
+	color: white;
+}
+
+h3{
+	color: white;
+}
+
+table{
+	color: white;
+}
